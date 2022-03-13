@@ -22,4 +22,4 @@ Bootstrap
 
 
 # Screenshot
-<src=".assets/images/weather.png>
+![image](https://user-images.githubusercontent.com/97073221/158076959-1f64090f-b24d-4da2-a27c-7fa47cd28bea.png)
