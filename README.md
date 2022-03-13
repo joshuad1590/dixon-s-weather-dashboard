@@ -22,4 +22,4 @@ Bootstrap
 
 
 # Screenshot
-file:///Users/Josh/Downloads/Dixon's%20Weather%20Dashboard.jpeg.html
+<src=".assets/images/weather.png>
